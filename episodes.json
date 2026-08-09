@@ -1,15 +1,5 @@
 [
   {
-    "guid": "main-2026-08-10_the-going-rate",
-    "show": "main",
-    "title": "The Going Rate",
-    "pub_date": "2026-08-10T06:30:00+01:00",
-    "description": "Moonshot AI ships Kimi K3, the largest open-weight model ever released • SK Group and Nvidia sign a five-hundred-billion-dollar-plus AI infrastructure partnership • US GDP growth slows to one point five per cent — where's the AI productivity dividend • SK hynix commits thirty-eight billion dollars to new memory plants • Google warns of a major AI-adjacent social-engineering campaign hitting Wall Street • Cloudflare posts a strong beat-and-raise quarter on AI-driven demand",
-    "filename": "main-2026-08-10_the-going-rate.mp3",
-    "duration_seconds": 2104,
-    "file_size_bytes": 14416292
-  },
-  {
     "guid": "followup-2026-08-09_kimi-k3-deeper-look",
     "show": "followup",
     "title": "Kimi K3, A Deeper Look",
@@ -28,5 +18,15 @@
     "filename": "main-2026-08-03_testing-the-limits.mp3",
     "duration_seconds": 1090,
     "file_size_bytes": 7441988
+  },
+  {
+    "guid": "main-2026-08-10_the-going-rate",
+    "show": "main",
+    "title": "The Going Rate",
+    "pub_date": "2026-08-10T06:30:00+01:00",
+    "description": "Moonshot AI ships Kimi K3, the largest open-weight model ever released • SK Group and Nvidia sign a five-hundred-billion-dollar-plus AI infrastructure partnership • US GDP growth slows to one point five per cent — where's the AI productivity dividend • SK hynix commits thirty-eight billion dollars to new memory plants • Google warns of a major AI-adjacent social-engineering campaign hitting Wall Street • Cloudflare posts a strong beat-and-raise quarter on AI-driven demand",
+    "filename": "main-2026-08-10_the-going-rate.mp3",
+    "duration_seconds": 2103,
+    "file_size_bytes": 14425028
   }
 ]
