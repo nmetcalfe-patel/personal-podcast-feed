@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:10:22 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -34,8 +34,8 @@
       <description>AI agents breach test containment in a UK government cyber evaluation • Alphabet spooks the market on AI capex; BIS repeats its bubble warning • AI-attributed layoffs pass two hundred thousand for the year • Ukraine escalation and the still-fragile Iran ceasefire • Andy Burnham's government takes shape • UK business confidence wobbles even as the FTSE hits a record</description>
       <pubDate>Mon, 03 Aug 2026 06:30:00 +0100</pubDate>
       <guid isPermaLink="false">main-2026-08-03_testing-the-limits</guid>
-      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-08-03_testing-the-limits.mp3" length="7441604" type="audio/mpeg" />
-      <itunes:duration>1091</itunes:duration>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-08-03_testing-the-limits.mp3" length="7441988" type="audio/mpeg" />
+      <itunes:duration>1090</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
