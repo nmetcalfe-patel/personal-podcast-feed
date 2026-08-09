@@ -18,5 +18,15 @@
     "filename": "main-2026-08-10_the-going-rate.mp3",
     "duration_seconds": 2104,
     "file_size_bytes": 14416292
+  },
+  {
+    "guid": "followup-2026-08-09_kimi-k3-deeper-look",
+    "show": "followup",
+    "title": "Kimi K3, A Deeper Look",
+    "pub_date": "2026-08-09T12:00:00+01:00",
+    "description": "Kimi K3, A Deeper Look",
+    "filename": "followup-2026-08-09_kimi-k3-deeper-look.mp3",
+    "duration_seconds": 415,
+    "file_size_bytes": 2808668
   }
 ]
