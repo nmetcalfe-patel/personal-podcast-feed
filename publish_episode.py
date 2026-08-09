@@ -43,11 +43,21 @@ def parse_frontmatter(md: str) -> dict:
 
 def extract_description(md: str, fallback_title: str) -> str:
     m = re.search(r"\*\*Running order\*\*\s*\n((?:\d+\..*\n?)+)", md)
-    if not m:
-        return fallback_title
-    items = [re.sub(r"^\d+\.\s*", "", ln).strip() for ln in m.group(1).splitlines() if ln.strip()]
-    items = [i for i in items if i and not i.lower().startswith("quick-fire") and not i.lower().startswith("sign-off")]
-    return " • ".join(items[:6]) or fallback_title
+    if m:
+        items = [re.sub(r"^\d+\.\s*", "", ln).strip() for ln in m.group(1).splitlines() if ln.strip()]
+        items = [i for i in items if i and not i.lower().startswith("quick-fire") and not i.lower().startswith("sign-off")]
+        if items:
+            return " • ".join(items[:6])
+
+    # Deep-dives etc. use free-text Show notes instead of a numbered running order —
+    # fall back to that paragraph (up to the next heading or the Sources line).
+    m = re.search(r"##\s+Show notes\s*\n(?:<!--.*?-->\s*\n)?(.+?)(?:\n\n|\nSources:|\n##)", md, re.DOTALL)
+    if m:
+        text = " ".join(line.strip() for line in m.group(1).splitlines() if line.strip())
+        if text:
+            return text
+
+    return fallback_title
 
 
 def get_duration_seconds(mp3_path: Path) -> int:

@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 15:04:49 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -22,7 +22,7 @@
     </item>
     <item>
       <title>[Deep Dive] Kimi K3, A Deeper Look</title>
-      <description>Kimi K3, A Deeper Look</description>
+      <description>Follow-up to "The Going Rate" (2026-08-10), key story 9. Nick asked for more on Kimi K3. Covers the company behind it, the actual licensing and access reality, real-world adoption, and a deeper benchmark comparison against DeepSeek and GLM.</description>
       <pubDate>Sun, 09 Aug 2026 12:00:00 +0100</pubDate>
       <guid isPermaLink="false">followup-2026-08-09_kimi-k3-deeper-look</guid>
       <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/followup-2026-08-09_kimi-k3-deeper-look.mp3" length="2808668" type="audio/mpeg" />
