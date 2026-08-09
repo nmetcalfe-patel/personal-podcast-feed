@@ -1,15 +1,5 @@
 [
   {
-    "guid": "followup-2026-08-09_kimi-k3-deeper-look",
-    "show": "followup",
-    "title": "Kimi K3, A Deeper Look",
-    "pub_date": "2026-08-09T12:00:00+01:00",
-    "description": "A follow-up to \"The Going Rate,\" covering more on Kimi K3: the company behind it, the actual licensing and access reality, real-world adoption, and a deeper benchmark comparison against DeepSeek and GLM.",
-    "filename": "followup-2026-08-09_kimi-k3-deeper-look.mp3",
-    "duration_seconds": 415,
-    "file_size_bytes": 2808668
-  },
-  {
     "guid": "main-2026-08-03_testing-the-limits",
     "show": "main",
     "title": "Testing the Limits",
@@ -28,5 +18,15 @@
     "filename": "main-2026-08-10_the-going-rate.mp3",
     "duration_seconds": 2103,
     "file_size_bytes": 14425028
+  },
+  {
+    "guid": "followup-2026-08-09_kimi-k3-deeper-look",
+    "show": "followup",
+    "title": "Kimi K3, A Deeper Look",
+    "pub_date": "2026-08-09T12:00:00+01:00",
+    "description": "Follow-up to \"The Going Rate\" (2026-08-10), key story 9 — a listener request for more on Kimi K3. Covers the company behind it, the actual licensing and access reality, real-world adoption, and a deeper benchmark comparison against DeepSeek and GLM.",
+    "filename": "followup-2026-08-09_kimi-k3-deeper-look.mp3",
+    "duration_seconds": 415,
+    "file_size_bytes": 2813204
   }
 ]
