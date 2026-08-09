@@ -6,11 +6,17 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Aug 2026 16:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 16:33:28 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://nmetcalfe-patel.github.io/personal-podcast-feed/artwork.png" />
+    <image>
+      <url>https://nmetcalfe-patel.github.io/personal-podcast-feed/artwork.png</url>
+      <title>Personal Podcast</title>
+      <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
+    </image>
     <item>
       <title>[Main] The Going Rate</title>
       <description>Moonshot AI ships Kimi K3, the largest open-weight model ever released • SK Group and Nvidia sign a five-hundred-billion-dollar-plus AI infrastructure partnership • US GDP growth slows to one point five per cent — where's the AI productivity dividend • SK hynix commits thirty-eight billion dollars to new memory plants • Google warns of a major AI-adjacent social-engineering campaign hitting Wall Street • Cloudflare posts a strong beat-and-raise quarter on AI-driven demand</description>

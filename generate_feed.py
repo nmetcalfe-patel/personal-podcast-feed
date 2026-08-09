@@ -30,6 +30,7 @@ CHANNEL_DESCRIPTION = (
 CHANNEL_LANGUAGE = "en-gb"
 CHANNEL_AUTHOR = "Priya, Jim & Nell"
 CHANNEL_CATEGORY = "News"
+CHANNEL_IMAGE = f"{PAGES_BASE}/artwork.png"
 
 SHOW_LABELS = {
     "main": "Main",
@@ -91,6 +92,12 @@ def build_feed(episodes: list[dict]) -> str:
     <itunes:category text="{CHANNEL_CATEGORY}" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="{CHANNEL_IMAGE}" />
+    <image>
+      <url>{CHANNEL_IMAGE}</url>
+      <title>{escape(CHANNEL_TITLE)}</title>
+      <link>{PAGES_BASE}</link>
+    </image>
 {items}
   </channel>
 </rss>
