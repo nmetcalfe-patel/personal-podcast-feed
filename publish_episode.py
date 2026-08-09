@@ -41,13 +41,27 @@ def parse_frontmatter(md: str) -> dict:
     return fm
 
 
+# Backstop redaction — this repo is public, so even if a script slips a name or
+# contact detail into text that ends up in the feed, strip it here as a last line
+# of defence. The real fix belongs upstream (catalogue.md rule + script-format.md,
+# see the private repo), this is just a safety net, not the mechanism.
+_NAME_RE = re.compile(r"\bNick\b")
+_EMAIL_RE = re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+")
+
+
+def redact_pii(text: str) -> str:
+    text = _NAME_RE.sub("the listener", text)
+    text = _EMAIL_RE.sub("[redacted]", text)
+    return text
+
+
 def extract_description(md: str, fallback_title: str) -> str:
     m = re.search(r"\*\*Running order\*\*\s*\n((?:\d+\..*\n?)+)", md)
     if m:
         items = [re.sub(r"^\d+\.\s*", "", ln).strip() for ln in m.group(1).splitlines() if ln.strip()]
         items = [i for i in items if i and not i.lower().startswith("quick-fire") and not i.lower().startswith("sign-off")]
         if items:
-            return " • ".join(items[:6])
+            return redact_pii(" • ".join(items[:6]))
 
     # Deep-dives etc. use free-text Show notes instead of a numbered running order —
     # fall back to that paragraph (up to the next heading or the Sources line).
@@ -55,9 +69,9 @@ def extract_description(md: str, fallback_title: str) -> str:
     if m:
         text = " ".join(line.strip() for line in m.group(1).splitlines() if line.strip())
         if text:
-            return text
+            return redact_pii(text)
 
-    return fallback_title
+    return redact_pii(fallback_title)
 
 
 def get_duration_seconds(mp3_path: Path) -> int:
@@ -105,7 +119,7 @@ def main():
     md = script_path.read_text(encoding="utf-8")
     fm = parse_frontmatter(md)
     show = fm.get("show", "main")
-    title = fm.get("title", script_path.stem)
+    title = redact_pii(fm.get("title", script_path.stem))
     date = fm.get("date", "")
     if not date:
         raise SystemExit("ERROR: frontmatter has no 'date' field.")
