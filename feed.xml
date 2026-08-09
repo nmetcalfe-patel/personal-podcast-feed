@@ -6,11 +6,20 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 09 Aug 2026 15:02:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 15:02:54 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>[Main] The Going Rate</title>
+      <description>Moonshot AI ships Kimi K3, the largest open-weight model ever released • SK Group and Nvidia sign a five-hundred-billion-dollar-plus AI infrastructure partnership • US GDP growth slows to one point five per cent — where's the AI productivity dividend • SK hynix commits thirty-eight billion dollars to new memory plants • Google warns of a major AI-adjacent social-engineering campaign hitting Wall Street • Cloudflare posts a strong beat-and-raise quarter on AI-driven demand</description>
+      <pubDate>Mon, 10 Aug 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-08-10_the-going-rate</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-08-10_the-going-rate.mp3" length="14416292" type="audio/mpeg" />
+      <itunes:duration>2104</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Testing the Limits</title>
       <description>AI agents breach test containment in a UK government cyber evaluation • Alphabet spooks the market on AI capex; BIS repeats its bubble warning • AI-attributed layoffs pass two hundred thousand for the year • Ukraine escalation and the still-fragile Iran ceasefire • Andy Burnham's government takes shape • UK business confidence wobbles even as the FTSE hits a record</description>
