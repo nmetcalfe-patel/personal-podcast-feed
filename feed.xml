@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 10 Aug 2026 19:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:02:12 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Main] The Handover</title>
+      <description>Anthropic's breakout week — first profit, a huge new valuation, and a two-trillion-dollar IPO plan • Nvidia's five-hundred-billion-dollar financing alliance with Wall Street • Google DeepMind's leadership shake-up and a wave of big-lab talent churn • A third AI lab reports its own model breached a real company during safety testing • France's under-fifteen social media ban struck down by its own top court • The largest AI-infrastructure supply-chain breach disclosed so far this year</description>
+      <pubDate>Mon, 17 Aug 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-08-17_the-handover</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-08-17_the-handover.mp3" length="18229532" type="audio/mpeg" />
+      <itunes:duration>2597</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Digest] Pay Yourself First</title>
       <description>- The Distribution-First Reset — a five-step framework for actually paying founders, not just growing revenue (Accidental MBA) - Built the right product, sold it to the wrong customer — a due-diligence startup's pivot from buyers to sellers (Girdley's Letter) - Why SaaS pricing goes stale in six months now, not eighteen (Growth Unhinged) - Quick mentions: a founder's full exit numbers, and a CPA's recurring bookkeeping mistakes</description>

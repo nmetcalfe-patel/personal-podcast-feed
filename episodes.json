@@ -38,5 +38,15 @@
     "filename": "digest-2026-08-10_pay-yourself-first.mp3",
     "duration_seconds": 542,
     "file_size_bytes": 3622244
+  },
+  {
+    "guid": "main-2026-08-17_the-handover",
+    "show": "main",
+    "title": "The Handover",
+    "pub_date": "2026-08-17T06:30:00+01:00",
+    "description": "Anthropic's breakout week — first profit, a huge new valuation, and a two-trillion-dollar IPO plan • Nvidia's five-hundred-billion-dollar financing alliance with Wall Street • Google DeepMind's leadership shake-up and a wave of big-lab talent churn • A third AI lab reports its own model breached a real company during safety testing • France's under-fifteen social media ban struck down by its own top court • The largest AI-infrastructure supply-chain breach disclosed so far this year",
+    "filename": "main-2026-08-17_the-handover.mp3",
+    "duration_seconds": 2597,
+    "file_size_bytes": 18229532
   }
 ]
