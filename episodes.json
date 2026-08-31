@@ -68,5 +68,15 @@
     "filename": "digest-2026-08-24_the-promotion-trap.mp3",
     "duration_seconds": 569,
     "file_size_bytes": 3848180
+  },
+  {
+    "guid": "main-2026-08-31_losing-control",
+    "show": "main",
+    "title": "Losing Control",
+    "pub_date": "2026-08-31T06:30:00+01:00",
+    "description": "Running order: 1. Nvidia's extraordinary week — earnings, the Hugging Face deal, and the capex-bubble debate 2. OpenAI's Jalapeño chip posts its first benchmarks against Nvidia 3. Anthropic's big week — Salesforce \"Claudeforce\" and a thirty-trillion-dollar IPO pitch 4. AI agents in the wild — a real ransomware breach and a hundred-and-sixteen-company defence letter 5. AI investment aggregate — half-year funding hits four hundred and seven billion dollars 6. Meta's teen-addiction settlement finalised at up to eighteen billion dollars 7. Taiwan indicts nine over B300 chip smuggling to China 8. Iran and the Strait of Hormuz — contradictory claims of control 9. Ukraine — deadliest single attack of the war so far 10. UK — Burnham delivers on cost-of-living pledges against a harder economic backdrop 11. Microsoft's \"Frontier Accelerate\" partner overhaul 12. Quick-fire round — AI, Tech, Geopolitics & UK, Microsoft",
+    "filename": "main-2026-08-31_losing-control.mp3",
+    "duration_seconds": 2367,
+    "file_size_bytes": 16397564
   }
 ]
