@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:31:51 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Digest] The Five-Advisor Council</title>
+      <description>- A structured AI prompt for pressure-testing a stuck business decision — five role-played advisors, anonymous peer review between them, then a "Chairman" forced to actually pick a side - What a decades-old milk ad rivalry says about the difference between an audience that notices you and one that buys from you - Quick mentions: a handful of small-business anecdotes pulled from the same newsletter's own link roundup</description>
+      <pubDate>Mon, 31 Aug 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-08-31_the-five-advisor-council</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-08-31_the-five-advisor-council.mp3" length="3860540" type="audio/mpeg" />
+      <itunes:duration>578</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Losing Control</title>
       <description>Running order: 1. Nvidia's extraordinary week — earnings, the Hugging Face deal, and the capex-bubble debate 2. OpenAI's Jalapeño chip posts its first benchmarks against Nvidia 3. Anthropic's big week — Salesforce "Claudeforce" and a thirty-trillion-dollar IPO pitch 4. AI agents in the wild — a real ransomware breach and a hundred-and-sixteen-company defence letter 5. AI investment aggregate — half-year funding hits four hundred and seven billion dollars 6. Meta's teen-addiction settlement finalised at up to eighteen billion dollars 7. Taiwan indicts nine over B300 chip smuggling to China 8. Iran and the Strait of Hormuz — contradictory claims of control 9. Ukraine — deadliest single attack of the war so far 10. UK — Burnham delivers on cost-of-living pledges against a harder economic backdrop 11. Microsoft's "Frontier Accelerate" partner overhaul 12. Quick-fire round — AI, Tech, Geopolitics &amp; UK, Microsoft</description>

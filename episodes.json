@@ -78,5 +78,15 @@
     "filename": "main-2026-08-31_losing-control.mp3",
     "duration_seconds": 2367,
     "file_size_bytes": 16397564
+  },
+  {
+    "guid": "digest-2026-08-31_the-five-advisor-council",
+    "show": "digest",
+    "title": "The Five-Advisor Council",
+    "pub_date": "2026-08-31T07:15:00+01:00",
+    "description": "- A structured AI prompt for pressure-testing a stuck business decision — five role-played advisors, anonymous peer review between them, then a \"Chairman\" forced to actually pick a side - What a decades-old milk ad rivalry says about the difference between an audience that notices you and one that buys from you - Quick mentions: a handful of small-business anecdotes pulled from the same newsletter's own link roundup",
+    "filename": "digest-2026-08-31_the-five-advisor-council.mp3",
+    "duration_seconds": 578,
+    "file_size_bytes": 3860540
   }
 ]
