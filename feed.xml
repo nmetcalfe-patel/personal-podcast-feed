@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Sep 2026 05:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:04:19 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Main] Tanker for Tanker</title>
+      <description>Running order: 1. GPT-6 Astra — OpenAI's AGI claim and the benchmark that undercut it 2. The Pentagon keeps Claude off its own AI platform, despite losing in court 3. Nvidia's Hugging Face deal goes from reported to signed 4. Iran and the Strait of Hormuz — from blockade to direct war 5. Ukraine — Russia hits the SBU headquarters for the first time 6. Reform UK's foreign-donations scandal 7. UK borrowing costs hit multi-decade highs 8. Microsoft starts charging for GitHub Copilot harness agents 9. Quick-fire round — AI, Tech, Geopolitics &amp; UK, Microsoft</description>
+      <pubDate>Mon, 07 Sep 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-09-07_tanker-for-tanker</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-09-07_tanker-for-tanker.mp3" length="15050012" type="audio/mpeg" />
+      <itunes:duration>2153</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Digest] The Five-Advisor Council</title>
       <description>- A structured AI prompt for pressure-testing a stuck business decision — five role-played advisors, anonymous peer review between them, then a "Chairman" forced to actually pick a side - What a decades-old milk ad rivalry says about the difference between an audience that notices you and one that buys from you - Quick mentions: a handful of small-business anecdotes pulled from the same newsletter's own link roundup</description>
