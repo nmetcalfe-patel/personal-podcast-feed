@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:54:34 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Deep Dive] Astra, Hugging Face, Agents, and the Productivity Numbers</title>
+      <description>Follow-up to "Tanker for Tanker" (2026-09-07) — four threads at once: the real Astra-versus-Fable comparison and the March precedent for the cyber-capability story, the company behind the Hugging Face acquisition, what actually goes into building a GitHub Copilot harness agent, and a deeper look at the AI-productivity numbers.</description>
+      <pubDate>Wed, 09 Sep 2026 12:00:00 +0100</pubDate>
+      <guid isPermaLink="false">followup-2026-09-09_astra-huggingface-agents-productivity</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/followup-2026-09-09_astra-huggingface-agents-productivity.mp3" length="4428692" type="audio/mpeg" />
+      <itunes:duration>642</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Tanker for Tanker</title>
       <description>Running order: 1. GPT-6 Astra — OpenAI's AGI claim and the benchmark that undercut it 2. The Pentagon keeps Claude off its own AI platform, despite losing in court 3. Nvidia's Hugging Face deal goes from reported to signed 4. Iran and the Strait of Hormuz — from blockade to direct war 5. Ukraine — Russia hits the SBU headquarters for the first time 6. Reform UK's foreign-donations scandal 7. UK borrowing costs hit multi-decade highs 8. Microsoft starts charging for GitHub Copilot harness agents 9. Quick-fire round — AI, Tech, Geopolitics &amp; UK, Microsoft</description>

@@ -98,5 +98,15 @@
     "filename": "main-2026-09-07_tanker-for-tanker.mp3",
     "duration_seconds": 2153,
     "file_size_bytes": 15050012
+  },
+  {
+    "guid": "followup-2026-09-09_astra-huggingface-agents-productivity",
+    "show": "followup",
+    "title": "Astra, Hugging Face, Agents, and the Productivity Numbers",
+    "pub_date": "2026-09-09T12:00:00+01:00",
+    "description": "Follow-up to \"Tanker for Tanker\" (2026-09-07) — four threads at once: the real Astra-versus-Fable comparison and the March precedent for the cyber-capability story, the company behind the Hugging Face acquisition, what actually goes into building a GitHub Copilot harness agent, and a deeper look at the AI-productivity numbers.",
+    "filename": "followup-2026-09-09_astra-huggingface-agents-productivity.mp3",
+    "duration_seconds": 642,
+    "file_size_bytes": 4428692
   }
 ]
