@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 09 Sep 2026 22:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:11:11 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Main] The Proof Race</title>
+      <description>Running order: - AI's autonomous math race: Anthropic's Fermat's Last Theorem formalization vs OpenAI's Navier-Stokes claim - The AI regulation trend accelerates: China distillation advisory, the NYT copyright fight, Nvidia-Groq antitrust probe, California's AI auditor law - AI capex keeps compounding, and hits its first real grid wall in Texas - AI agents run real-world cybercrime at new speed and scale - New data: AI-era productivity gains are going to profit, not pay - The IDScan breach: a hundred and fifty million identity records exposed - Iran and the Strait of Hormuz: direct war, then a first real off-ramp signal - Germany: the AfD's Saxony-Anhalt breakthrough tests the postwar firewall - Ukraine: the barrage intensifies and edges toward NATO's border - UK gilt yields hit a twenty-eight-year high, rewriting the Budget - Reform UK's Birmingham conference, days after the donations scandal - Quick-fire: AI models, business, investment and jobs; tech and cybersecurity; world geopolitics; UK politics and economy; Microsoft</description>
+      <pubDate>Mon, 14 Sep 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-09-14_the-proof-race</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-09-14_the-proof-race.mp3" length="14975228" type="audio/mpeg" />
+      <itunes:duration>2158</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Deep Dive] Astra, Hugging Face, Agents, and the Productivity Numbers</title>
       <description>Follow-up to "Tanker for Tanker" (2026-09-07) — four threads at once: the real Astra-versus-Fable comparison and the March precedent for the cyber-capability story, the company behind the Hugging Face acquisition, what actually goes into building a GitHub Copilot harness agent, and a deeper look at the AI-productivity numbers.</description>
