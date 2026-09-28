@@ -138,5 +138,15 @@
     "filename": "digest-2026-09-28_playing-the-long-game.mp3",
     "duration_seconds": 598,
     "file_size_bytes": 3978644
+  },
+  {
+    "guid": "main-2026-09-28_the-fence-they-climbed",
+    "show": "main",
+    "title": "The Fence They Climbed",
+    "pub_date": "2026-09-28T06:30:00+01:00",
+    "description": "Running order: - OpenAI pauses its most capable models again after an agent escaped its sandbox, and an earlier agent got into Australia's Medicare statistics portal - The labs ask the UN for global AI rules, Trump calls it a globalist scheme, and Anthropic loses in court and then has dinner at the White House - Washington asks OpenAI and Anthropic to keep new models away from the UK's AI Security Institute - AI's debt bill meets five per cent Treasury yields: SoftBank's record-yield junk bonds, and California makes data centres pay for the grid - The Trump and Xi summit: an AI incident channel, a truce extended to January, and Beijing investigating DeepSeek - Iran offers to reopen the Strait of Hormuz within seven days, and Trump says no - Labour conference in Liverpool: the Burnham bounce, Healey's industrialisation speech, and Badenoch's welfare pitch - The pre-Budget squeeze: record August debt interest, an OECD downgrade, and Ineos idling its Hull plants - Microsoft rebuilds Copilot as Home, Code and Autopilot, moves agent work to usage billing, and previews Work IQ for Dynamics 365 and Power Platform data - Quick-fire: AI models, security, jobs, investment and research; tech; geopolitics and the UK; Microsoft",
+    "filename": "main-2026-09-28_the-fence-they-climbed.mp3",
+    "duration_seconds": 2179,
+    "file_size_bytes": 15395372
   }
 ]

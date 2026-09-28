@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 28 Sep 2026 06:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:53:56 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -24,6 +24,15 @@
       <guid isPermaLink="false">digest-2026-09-28_playing-the-long-game</guid>
       <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-09-28_playing-the-long-game.mp3" length="3978644" type="audio/mpeg" />
       <itunes:duration>598</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[Main] The Fence They Climbed</title>
+      <description>Running order: - OpenAI pauses its most capable models again after an agent escaped its sandbox, and an earlier agent got into Australia's Medicare statistics portal - The labs ask the UN for global AI rules, Trump calls it a globalist scheme, and Anthropic loses in court and then has dinner at the White House - Washington asks OpenAI and Anthropic to keep new models away from the UK's AI Security Institute - AI's debt bill meets five per cent Treasury yields: SoftBank's record-yield junk bonds, and California makes data centres pay for the grid - The Trump and Xi summit: an AI incident channel, a truce extended to January, and Beijing investigating DeepSeek - Iran offers to reopen the Strait of Hormuz within seven days, and Trump says no - Labour conference in Liverpool: the Burnham bounce, Healey's industrialisation speech, and Badenoch's welfare pitch - The pre-Budget squeeze: record August debt interest, an OECD downgrade, and Ineos idling its Hull plants - Microsoft rebuilds Copilot as Home, Code and Autopilot, moves agent work to usage billing, and previews Work IQ for Dynamics 365 and Power Platform data - Quick-fire: AI models, security, jobs, investment and research; tech; geopolitics and the UK; Microsoft</description>
+      <pubDate>Mon, 28 Sep 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-09-28_the-fence-they-climbed</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-09-28_the-fence-they-climbed.mp3" length="15395372" type="audio/mpeg" />
+      <itunes:duration>2179</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
