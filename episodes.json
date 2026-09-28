@@ -128,5 +128,15 @@
     "filename": "main-2026-09-21_who-holds-the-brake.mp3",
     "duration_seconds": 2186,
     "file_size_bytes": 15271172
+  },
+  {
+    "guid": "digest-2026-09-28_playing-the-long-game",
+    "show": "digest",
+    "title": "Playing the Long Game",
+    "pub_date": "2026-09-28T07:15:00+01:00",
+    "description": "- The models are converging: GPT-6 Sol and Luna, Claude Opus 5.5, and why cheap open models still need the expensive ones - When a vendor's limits become the risk: a quick callback on the Pentagon ruling - Long game vs short game: how Rolex can't be bought, and how Columbia House ate itself on \"bad profits\" - The 3 Agreements: rolling out a change your team is pushing back on - Also landed in the inbox: an AI agent asking for paid work, Huang vs Hinton, chips in orbit",
+    "filename": "digest-2026-09-28_playing-the-long-game.mp3",
+    "duration_seconds": 598,
+    "file_size_bytes": 3978644
   }
 ]

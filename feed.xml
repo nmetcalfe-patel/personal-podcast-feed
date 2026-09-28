@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Sep 2026 06:08:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:35:31 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Digest] Playing the Long Game</title>
+      <description>- The models are converging: GPT-6 Sol and Luna, Claude Opus 5.5, and why cheap open models still need the expensive ones - When a vendor's limits become the risk: a quick callback on the Pentagon ruling - Long game vs short game: how Rolex can't be bought, and how Columbia House ate itself on "bad profits" - The 3 Agreements: rolling out a change your team is pushing back on - Also landed in the inbox: an AI agent asking for paid work, Huang vs Hinton, chips in orbit</description>
+      <pubDate>Mon, 28 Sep 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-09-28_playing-the-long-game</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-09-28_playing-the-long-game.mp3" length="3978644" type="audio/mpeg" />
+      <itunes:duration>598</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Who Holds the Brake</title>
       <description>Running order: - AI's brake pedal: the "Pace the Frontier" letter, who backed it, and who called it a cartel - The market reaction: chip stocks fall, cybersecurity rallies, OpenAI delays its IPO - The White House says no: the "AI Force," the UN this week, and the UK's human rights committee - The evidence behind the letter: Gemini's breach, OpenAI's six disclosures, and Claude helping build Claude - JadePuffer: the first fully autonomous ransomware attack - The Trump and Xi summit on Thursday, and Huawei's new chip roadmap - Iran and the Strait of Hormuz: talks and tanker strikes - Ukraine: the energy truce that wasn't, and the diesel link - UK economy: inflation at three point one, the Fed hikes, the Bank of England holds and pauses gilt sales - UK politics: the seventy-two million pound donations row and the latest polls - Microsoft: Power Platform's coding-agent tools go GA, and the meter gets switched on by default - Quick-fire: AI models, business, jobs and investment; tech and cybersecurity; UK politics and economy; Microsoft</description>
