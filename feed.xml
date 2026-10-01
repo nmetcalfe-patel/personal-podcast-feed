@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:53:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:29:26 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Main] Dots and Watchdogs</title>
+      <description>Running order: - OpenAI ships "dots" at DevDay — always-on, persistent agents — plus GPT six point one Sol, a faster speed tier and cloud coding - The labs sign a voluntary self-policing pledge with the White House on Tuesday; the FTC opens a formal investigation into two of the same companies on Wednesday - Google DeepMind retakes the benchmark lead with Gemini four Argon, rolled out to cyber defenders first - MI5 publicly names a Chinese institute funding UK AI research and warns over a hundred academics - The Bank of England puts a number on AI's debt pile and asks for a "right to intervene" - Quick-fire: AI jobs, funding and chips; cloud market share; Microsoft's rollout catching up with itself; what's on in London this week</description>
+      <pubDate>Thu, 01 Oct 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-10-01_dots-and-watchdogs</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-10-01_dots-and-watchdogs.mp3" length="6127844" type="audio/mpeg" />
+      <itunes:duration>881</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Digest] Playing the Long Game</title>
       <description>- The models are converging: GPT-6 Sol and Luna, Claude Opus 5.5, and why cheap open models still need the expensive ones - When a vendor's limits become the risk: a quick callback on the Pentagon ruling - Long game vs short game: how Rolex can't be bought, and how Columbia House ate itself on "bad profits" - The 3 Agreements: rolling out a change your team is pushing back on - Also landed in the inbox: an AI agent asking for paid work, Huang vs Hinton, chips in orbit</description>

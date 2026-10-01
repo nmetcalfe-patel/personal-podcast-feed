@@ -148,5 +148,15 @@
     "filename": "main-2026-09-28_the-fence-they-climbed.mp3",
     "duration_seconds": 2179,
     "file_size_bytes": 15395372
+  },
+  {
+    "guid": "main-2026-10-01_dots-and-watchdogs",
+    "show": "main",
+    "title": "Dots and Watchdogs",
+    "pub_date": "2026-10-01T06:30:00+01:00",
+    "description": "Running order: - OpenAI ships \"dots\" at DevDay — always-on, persistent agents — plus GPT six point one Sol, a faster speed tier and cloud coding - The labs sign a voluntary self-policing pledge with the White House on Tuesday; the FTC opens a formal investigation into two of the same companies on Wednesday - Google DeepMind retakes the benchmark lead with Gemini four Argon, rolled out to cyber defenders first - MI5 publicly names a Chinese institute funding UK AI research and warns over a hundred academics - The Bank of England puts a number on AI's debt pile and asks for a \"right to intervene\" - Quick-fire: AI jobs, funding and chips; cloud market share; Microsoft's rollout catching up with itself; what's on in London this week",
+    "filename": "main-2026-10-01_dots-and-watchdogs.mp3",
+    "duration_seconds": 881,
+    "file_size_bytes": 6127844
   }
 ]
