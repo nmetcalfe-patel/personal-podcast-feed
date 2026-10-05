@@ -158,5 +158,15 @@
     "filename": "main-2026-10-01_dots-and-watchdogs.mp3",
     "duration_seconds": 881,
     "file_size_bytes": 6127844
+  },
+  {
+    "guid": "main-2026-10-05_who-pays",
+    "show": "main",
+    "title": "Who Pays",
+    "pub_date": "2026-10-05T06:30:00+01:00",
+    "description": "Running order: - OpenAI shelves its next model after it failed internal safety tests, and state attorneys general pile in - Anthropic's leaked IPO filing: the revenue, the loss and the five hundred billion dollars of compute bills - A paper on AI doing AI research, and the first outside evaluator moving into a lab - The US jobs report and what it does and doesn't say about AI - AMD buys Fei-Fei Li's World Labs - Gilts, the Budget and a squeeze on the Chancellor - Trump rejects Iran's offer on the Strait of Hormuz - RAF Fairford: arrests, an Iran claim and the question of evidence - Microsoft cuts partner margins and launches growth margins - Quick-fire: AI, tech, geopolitics and the UK, Microsoft",
+    "filename": "main-2026-10-05_who-pays.mp3",
+    "duration_seconds": 1921,
+    "file_size_bytes": 13087484
   }
 ]

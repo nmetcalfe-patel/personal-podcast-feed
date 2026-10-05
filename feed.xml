@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 01 Oct 2026 05:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:59:51 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Main] Who Pays</title>
+      <description>Running order: - OpenAI shelves its next model after it failed internal safety tests, and state attorneys general pile in - Anthropic's leaked IPO filing: the revenue, the loss and the five hundred billion dollars of compute bills - A paper on AI doing AI research, and the first outside evaluator moving into a lab - The US jobs report and what it does and doesn't say about AI - AMD buys Fei-Fei Li's World Labs - Gilts, the Budget and a squeeze on the Chancellor - Trump rejects Iran's offer on the Strait of Hormuz - RAF Fairford: arrests, an Iran claim and the question of evidence - Microsoft cuts partner margins and launches growth margins - Quick-fire: AI, tech, geopolitics and the UK, Microsoft</description>
+      <pubDate>Mon, 05 Oct 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-10-05_who-pays</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-10-05_who-pays.mp3" length="13087484" type="audio/mpeg" />
+      <itunes:duration>1921</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Dots and Watchdogs</title>
       <description>Running order: - OpenAI ships "dots" at DevDay — always-on, persistent agents — plus GPT six point one Sol, a faster speed tier and cloud coding - The labs sign a voluntary self-policing pledge with the White House on Tuesday; the FTC opens a formal investigation into two of the same companies on Wednesday - Google DeepMind retakes the benchmark lead with Gemini four Argon, rolled out to cyber defenders first - MI5 publicly names a Chinese institute funding UK AI research and warns over a hundred academics - The Bank of England puts a number on AI's debt pile and asks for a "right to intervene" - Quick-fire: AI jobs, funding and chips; cloud market share; Microsoft's rollout catching up with itself; what's on in London this week</description>
