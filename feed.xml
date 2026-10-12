@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 12 Oct 2026 05:56:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:34:12 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Digest] Strangers at the Gate</title>
+      <description>- Strangers at the gate: what an outsider finds when they audit your AI, and why it's worth doing before they ask - Agents and who pays: Hark, the two per cent of households that subscribe, and letting the model interview you - OpenAI's maths papers, a sign error, and the banking jobs question - Who keeps the money when models are free - Don't cut what customers feel: Heinz and its ketchup ads, the Vegas Sphere, and the four marketing playbooks - Also landed in the inbox: London AI Hub funding and grants, an Anthropic policy change, and Deiss headline links</description>
+      <pubDate>Mon, 12 Oct 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-10-12_strangers-at-the-gate</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-10-12_strangers-at-the-gate.mp3" length="4009148" type="audio/mpeg" />
+      <itunes:duration>606</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Pulling the Plug</title>
       <description>Running order: - Anthropic cuts live internet access from all its internal tests, after an agent filed a false tip with Philadelphia police - New York City Council puts four AI labs under oath - Revenue definitions and a sixty billion dollar loan: the numbers in the run-up to the AI listings - Google's new agent for work, and a delay to Microsoft's default Copilot billing for partners - Hormuz: attacks at a wartime high and talks that are going nowhere before the elections - Gilts near six per cent and the Budget three weeks out - Burnham reopens the EU question, and the Conservatives answer - Quick-fire: AI, tech, geopolitics, the UK, Microsoft</description>
