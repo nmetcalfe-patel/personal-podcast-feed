@@ -168,5 +168,15 @@
     "filename": "main-2026-10-05_who-pays.mp3",
     "duration_seconds": 1921,
     "file_size_bytes": 13087484
+  },
+  {
+    "guid": "main-2026-10-12_pulling-the-plug",
+    "show": "main",
+    "title": "Pulling the Plug",
+    "pub_date": "2026-10-12T06:30:00+01:00",
+    "description": "Running order: - Anthropic cuts live internet access from all its internal tests, after an agent filed a false tip with Philadelphia police - New York City Council puts four AI labs under oath - Revenue definitions and a sixty billion dollar loan: the numbers in the run-up to the AI listings - Google's new agent for work, and a delay to Microsoft's default Copilot billing for partners - Hormuz: attacks at a wartime high and talks that are going nowhere before the elections - Gilts near six per cent and the Budget three weeks out - Burnham reopens the EU question, and the Conservatives answer - Quick-fire: AI, tech, geopolitics, the UK, Microsoft",
+    "filename": "main-2026-10-12_pulling-the-plug.mp3",
+    "duration_seconds": 1905,
+    "file_size_bytes": 13341572
   }
 ]

@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 05 Oct 2026 05:59:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 05:56:00 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Main] Pulling the Plug</title>
+      <description>Running order: - Anthropic cuts live internet access from all its internal tests, after an agent filed a false tip with Philadelphia police - New York City Council puts four AI labs under oath - Revenue definitions and a sixty billion dollar loan: the numbers in the run-up to the AI listings - Google's new agent for work, and a delay to Microsoft's default Copilot billing for partners - Hormuz: attacks at a wartime high and talks that are going nowhere before the elections - Gilts near six per cent and the Budget three weeks out - Burnham reopens the EU question, and the Conservatives answer - Quick-fire: AI, tech, geopolitics, the UK, Microsoft</description>
+      <pubDate>Mon, 12 Oct 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-10-12_pulling-the-plug</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-10-12_pulling-the-plug.mp3" length="13341572" type="audio/mpeg" />
+      <itunes:duration>1905</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Who Pays</title>
       <description>Running order: - OpenAI shelves its next model after it failed internal safety tests, and state attorneys general pile in - Anthropic's leaked IPO filing: the revenue, the loss and the five hundred billion dollars of compute bills - A paper on AI doing AI research, and the first outside evaluator moving into a lab - The US jobs report and what it does and doesn't say about AI - AMD buys Fei-Fei Li's World Labs - Gilts, the Budget and a squeeze on the Chancellor - Trump rejects Iran's offer on the Strait of Hormuz - RAF Fairford: arrests, an Iran claim and the question of evidence - Microsoft cuts partner margins and launches growth margins - Quick-fire: AI, tech, geopolitics and the UK, Microsoft</description>
