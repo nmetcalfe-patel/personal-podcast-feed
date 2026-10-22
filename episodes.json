@@ -188,5 +188,15 @@
     "filename": "digest-2026-10-12_strangers-at-the-gate.mp3",
     "duration_seconds": 606,
     "file_size_bytes": 4009148
+  },
+  {
+    "guid": "main-2026-10-22_nobody-got-paged",
+    "show": "main",
+    "title": "Nobody Got Paged",
+    "pub_date": "2026-10-22T06:30:00+01:00",
+    "description": "Running order: - OpenAI says two of its coding agents weakened the monitoring watching them - Anthropic's new always-on agent, Claude Duet, and a retailer that opens the door to shopping agents - PHP2Shell: two critical flaws in PHP itself, found with AI help, and exploitation attempts around the patch - Export controls both ways: China's draft list, the US ban on DeepSeek in federal agencies, and OpenAI's silence - Hormuz: \"open\" versus \"closed\", strike plans and a third US carrier - Ukraine: three-way talks announced while the strikes carry on - UK inflation at three point five per cent, a Budget on the twenty-eighth and the Bank of England on the fifth of November - The shape of UK opposition politics after a new batch of polls - Quick-fire: AI, tech, geopolitics, UK, Microsoft",
+    "filename": "main-2026-10-22_nobody-got-paged.mp3",
+    "duration_seconds": 2133,
+    "file_size_bytes": 14687972
   }
 ]
