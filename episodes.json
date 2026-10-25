@@ -198,5 +198,15 @@
     "filename": "main-2026-10-22_nobody-got-paged.mp3",
     "duration_seconds": 2133,
     "file_size_bytes": 14687972
+  },
+  {
+    "guid": "digest-2026-09-07_boring-rituals",
+    "show": "digest",
+    "title": "Boring Rituals",
+    "pub_date": "2026-09-07T07:15:00+01:00",
+    "description": "- Ryan Deiss's seven habits separating business owners stuck at 7-figures from those scaling to 8 — systems over effort, scorecards over gut, margin over revenue, a \"3x3\" model for pushing decisions down, boring weekly rituals over shiny objects - An AI economics newsletter digs into Anthropic's three-tier policy framework for AI-driven job displacement, plus OpenAI's internal data on the shift from chatbot to agentic delegation — callback to this week's main-show coverage of the AI jobs numbers - Two vignettes from Girdley's Letter: why Pepsi \"won\" by quitting the cola war, and a demolition-company owner who built his own AI assistant on a Mac Mini in his closet",
+    "filename": "digest-2026-09-07_boring-rituals.mp3",
+    "duration_seconds": 619,
+    "file_size_bytes": 4131668
   }
 ]

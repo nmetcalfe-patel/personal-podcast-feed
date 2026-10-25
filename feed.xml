@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:55:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:12:46 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -105,6 +105,15 @@
       <guid isPermaLink="false">followup-2026-09-09_astra-huggingface-agents-productivity</guid>
       <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/followup-2026-09-09_astra-huggingface-agents-productivity.mp3" length="4428692" type="audio/mpeg" />
       <itunes:duration>642</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[Digest] Boring Rituals</title>
+      <description>- Ryan Deiss's seven habits separating business owners stuck at 7-figures from those scaling to 8 — systems over effort, scorecards over gut, margin over revenue, a "3x3" model for pushing decisions down, boring weekly rituals over shiny objects - An AI economics newsletter digs into Anthropic's three-tier policy framework for AI-driven job displacement, plus OpenAI's internal data on the shift from chatbot to agentic delegation — callback to this week's main-show coverage of the AI jobs numbers - Two vignettes from Girdley's Letter: why Pepsi "won" by quitting the cola war, and a demolition-company owner who built his own AI assistant on a Mac Mini in his closet</description>
+      <pubDate>Mon, 07 Sep 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-09-07_boring-rituals</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-09-07_boring-rituals.mp3" length="4131668" type="audio/mpeg" />
+      <itunes:duration>619</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
