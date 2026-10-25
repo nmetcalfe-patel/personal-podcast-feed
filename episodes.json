@@ -218,5 +218,15 @@
     "filename": "digest-2026-09-14_who-owns-the-ai-race.mp3",
     "duration_seconds": 606,
     "file_size_bytes": 4037348
+  },
+  {
+    "guid": "digest-2026-09-21_whats-your-moat",
+    "show": "digest",
+    "title": "What's Your Moat",
+    "pub_date": "2026-09-21T07:15:00+01:00",
+    "description": "- Callback: the \"should AI slow down\" essay from this week's main show, and what the newsletters say was actually agreed - Who owns the interface: OpenAI's law model, Claude's merged app, Salesforce inside Claude, and robots learning from home videos - What's your moat: open models catching up, and a thousand pickleball paddle brands - Treating AI like an employee you've hired: five steps - Executive presence, in one interview story - Also landed in the inbox: a brain implant that speaks in the patient's own voice, and a royal AI summit",
+    "filename": "digest-2026-09-21_whats-your-moat.mp3",
+    "duration_seconds": 581,
+    "file_size_bytes": 3873332
   }
 ]
