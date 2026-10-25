@@ -238,5 +238,15 @@
     "filename": "digest-2026-10-05_who-holds-the-pen.mp3",
     "duration_seconds": 597,
     "file_size_bytes": 3940364
+  },
+  {
+    "guid": "digest-2026-10-19_the-first-purchase",
+    "show": "digest",
+    "title": "The First Purchase",
+    "pub_date": "2026-10-19T07:15:00+01:00",
+    "description": "- Frontier models converge: Meta's Muse Wonder, Google's Gemini 4 Argon, and why a benchmark isn't your workload - The 1986 calculator picket, and what a flipped sign in a maths paper changes about it - The first purchase: Prime drinks, Ford's logo as collateral, and the Hiring Razor - Also landed in the inbox: a bugged OpenAI meeting room, eight states suing OpenAI, a peer's AI voice in the Lords, Karpathy's funnel, and Jensen Huang in London",
+    "filename": "digest-2026-10-19_the-first-purchase.mp3",
+    "duration_seconds": 591,
+    "file_size_bytes": 3864764
   }
 ]

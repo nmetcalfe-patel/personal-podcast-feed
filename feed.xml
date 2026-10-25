@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:13:06 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -24,6 +24,15 @@
       <guid isPermaLink="false">main-2026-10-22_nobody-got-paged</guid>
       <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-10-22_nobody-got-paged.mp3" length="14687972" type="audio/mpeg" />
       <itunes:duration>2133</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[Digest] The First Purchase</title>
+      <description>- Frontier models converge: Meta's Muse Wonder, Google's Gemini 4 Argon, and why a benchmark isn't your workload - The 1986 calculator picket, and what a flipped sign in a maths paper changes about it - The first purchase: Prime drinks, Ford's logo as collateral, and the Hiring Razor - Also landed in the inbox: a bugged OpenAI meeting room, eight states suing OpenAI, a peer's AI voice in the Lords, Karpathy's funnel, and Jensen Huang in London</description>
+      <pubDate>Mon, 19 Oct 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-10-19_the-first-purchase</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-10-19_the-first-purchase.mp3" length="3864764" type="audio/mpeg" />
+      <itunes:duration>591</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
