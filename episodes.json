@@ -248,5 +248,15 @@
     "filename": "digest-2026-10-19_the-first-purchase.mp3",
     "duration_seconds": 591,
     "file_size_bytes": 3864764
+  },
+  {
+    "guid": "main-2026-10-19_marking-their-own-homework",
+    "show": "main",
+    "title": "Marking Their Own Homework",
+    "pub_date": "2026-10-19T06:30:00+01:00",
+    "description": "Running order: - Anthropic's third-quarter numbers, and what \"adjusted profit\" does and doesn't tell you - Four AI labs in front of MPs: two ask for binding rules, two don't - Microsoft's containment layer for AI agents goes general availability - Hormuz: a record week of ship attacks and two sides claiming the same strait - UK growth numbers, the Budget nine days out, and a Governor's warning - The supermarket fridges in France - Quick-fire: AI, tech, geopolitics, the UK, Microsoft",
+    "filename": "main-2026-10-19_marking-their-own-homework.mp3",
+    "duration_seconds": 1938,
+    "file_size_bytes": 13481132
   }
 ]
