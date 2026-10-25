@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:12:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:13:00 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -42,6 +42,15 @@
       <guid isPermaLink="false">main-2026-10-12_pulling-the-plug</guid>
       <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-10-12_pulling-the-plug.mp3" length="13341572" type="audio/mpeg" />
       <itunes:duration>1905</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>[Digest] Who Holds the Pen</title>
+      <description>- Washington wants the pen: the "SI" rename, the self-policing accord, UK testers kept waiting, and Britain's pitch for a global AI code - Always-on agents: dots, Muse and Grok Bot, and why only about two per cent of households pay for AI - Counting the people who will actually buy: the Chinese bicycle bell trap and Blue Apron - Dunkin' and thinking in clocks: who gets paid when, before you sign anything - The Q4 super-sprint: forty real working days left - Also landed in the inbox: Gemini skills, a 3Blue1Brown-style explainer trick, a Pentagon study, and Deiss headline links</description>
+      <pubDate>Mon, 05 Oct 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-10-05_who-holds-the-pen</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-10-05_who-holds-the-pen.mp3" length="3940364" type="audio/mpeg" />
+      <itunes:duration>597</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
