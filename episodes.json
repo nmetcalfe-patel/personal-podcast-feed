@@ -208,5 +208,15 @@
     "filename": "digest-2026-09-07_boring-rituals.mp3",
     "duration_seconds": 619,
     "file_size_bytes": 4131668
+  },
+  {
+    "guid": "digest-2026-09-14_who-owns-the-ai-race",
+    "show": "digest",
+    "title": "Who Owns The AI Race",
+    "pub_date": "2026-09-14T07:15:00+01:00",
+    "description": "- Quick callback: the Navier-Stokes maths-credit story from this week's main show, plus the bit that didn't make it on air - \"Trendslop\" — why AI business advice all sounds the same - Agents that actually do things: Meta's Muse, OpenAI's banker tool, and what MCP is for - Who really owns the AI race — Anthropic's compute-dependency web - Business ops double bill: revenue per employee, and why cutting costs doesn't always fix anything - Also landed in the inbox: a genome database, a $60m raise, and an open-source microbiome model",
+    "filename": "digest-2026-09-14_who-owns-the-ai-race.mp3",
+    "duration_seconds": 606,
+    "file_size_bytes": 4037348
   }
 ]
