@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:41:17 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Digest] Swap the Model</title>
+      <description>- The dinner question: if a new model drops next month, does your company get better or worse? - Why the gap between AI sceptics and heavy users keeps widening - Who is paying for the build-out: the ten-year yield and CoreWeave's bonds - The 4Cs for dropped balls, and what happened to teenage summer jobs - Also landed in the inbox: the PHP follow-up, a data centre in a box, a safety hire at OpenAI, and two ways to share a company's shares</description>
+      <pubDate>Mon, 26 Oct 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-10-26_swap-the-model</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-10-26_swap-the-model.mp3" length="3252308" type="audio/mpeg" />
+      <itunes:duration>496</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Opening the Books</title>
       <description>Running order: - Anthropic's draft IPO filing: the revenue, the loss and the half a trillion in compute commitments - Anthropic's own data on junior hiring, and a fund pledged against shares that don't trade yet - A lab writes its own safety bill while staff leave another lab over military work - OpenAI's models arrive on Google Cloud - AI agents at the door: a cheap criminal campaign and the banks that are locking up - Hormuz: closed, open, or both - The Budget on Wednesday, gilts and the Bank of England - Quick-fire: AI, tech, geopolitics, UK, Microsoft</description>

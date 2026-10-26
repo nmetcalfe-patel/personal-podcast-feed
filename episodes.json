@@ -268,5 +268,15 @@
     "filename": "main-2026-10-26_opening-the-books.mp3",
     "duration_seconds": 1924,
     "file_size_bytes": 12932636
+  },
+  {
+    "guid": "digest-2026-10-26_swap-the-model",
+    "show": "digest",
+    "title": "Swap the Model",
+    "pub_date": "2026-10-26T07:15:00+01:00",
+    "description": "- The dinner question: if a new model drops next month, does your company get better or worse? - Why the gap between AI sceptics and heavy users keeps widening - Who is paying for the build-out: the ten-year yield and CoreWeave's bonds - The 4Cs for dropped balls, and what happened to teenage summer jobs - Also landed in the inbox: the PHP follow-up, a data centre in a box, a safety hire at OpenAI, and two ways to share a company's shares",
+    "filename": "digest-2026-10-26_swap-the-model.mp3",
+    "duration_seconds": 496,
+    "file_size_bytes": 3252308
   }
 ]
