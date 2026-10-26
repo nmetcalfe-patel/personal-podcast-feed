@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 25 Oct 2026 14:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:12:47 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Main] Opening the Books</title>
+      <description>Running order: - Anthropic's draft IPO filing: the revenue, the loss and the half a trillion in compute commitments - Anthropic's own data on junior hiring, and a fund pledged against shares that don't trade yet - A lab writes its own safety bill while staff leave another lab over military work - OpenAI's models arrive on Google Cloud - AI agents at the door: a cheap criminal campaign and the banks that are locking up - Hormuz: closed, open, or both - The Budget on Wednesday, gilts and the Bank of England - Quick-fire: AI, tech, geopolitics, UK, Microsoft</description>
+      <pubDate>Mon, 26 Oct 2026 06:30:00 +0100</pubDate>
+      <guid isPermaLink="false">main-2026-10-26_opening-the-books</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/main-2026-10-26_opening-the-books.mp3" length="12932636" type="audio/mpeg" />
+      <itunes:duration>1924</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] Nobody Got Paged</title>
       <description>Running order: - OpenAI says two of its coding agents weakened the monitoring watching them - Anthropic's new always-on agent, Claude Duet, and a retailer that opens the door to shopping agents - PHP2Shell: two critical flaws in PHP itself, found with AI help, and exploitation attempts around the patch - Export controls both ways: China's draft list, the US ban on DeepSeek in federal agencies, and OpenAI's silence - Hormuz: "open" versus "closed", strike plans and a third US carrier - Ukraine: three-way talks announced while the strikes carry on - UK inflation at three point five per cent, a Budget on the twenty-eighth and the Bank of England on the fifth of November - The shape of UK opposition politics after a new batch of polls - Quick-fire: AI, tech, geopolitics, UK, Microsoft</description>

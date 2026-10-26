@@ -258,5 +258,15 @@
     "filename": "main-2026-10-19_marking-their-own-homework.mp3",
     "duration_seconds": 1938,
     "file_size_bytes": 13481132
+  },
+  {
+    "guid": "main-2026-10-26_opening-the-books",
+    "show": "main",
+    "title": "Opening the Books",
+    "pub_date": "2026-10-26T06:30:00+01:00",
+    "description": "Running order: - Anthropic's draft IPO filing: the revenue, the loss and the half a trillion in compute commitments - Anthropic's own data on junior hiring, and a fund pledged against shares that don't trade yet - A lab writes its own safety bill while staff leave another lab over military work - OpenAI's models arrive on Google Cloud - AI agents at the door: a cheap criminal campaign and the banks that are locking up - Hormuz: closed, open, or both - The Budget on Wednesday, gilts and the Bank of England - Quick-fire: AI, tech, geopolitics, UK, Microsoft",
+    "filename": "main-2026-10-26_opening-the-books.mp3",
+    "duration_seconds": 1924,
+    "file_size_bytes": 12932636
   }
 ]
