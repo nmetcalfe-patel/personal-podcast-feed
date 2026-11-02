@@ -278,5 +278,15 @@
     "filename": "digest-2026-10-26_swap-the-model.mp3",
     "duration_seconds": 496,
     "file_size_bytes": 3252308
+  },
+  {
+    "guid": "main-2026-11-02_waiting-on-the-count",
+    "show": "main",
+    "title": "Waiting on the Count",
+    "pub_date": "2026-11-02T06:30:00+01:00",
+    "description": "Running order: - Anthropic's IPO filing is public, but the price isn't - Four AI companies back one opt-out for AI training - Hormuz, oil at a six-month high, and a US election clock - Israel's deadlocked election - The UK Budget, and the Bank of England on Thursday - Quick-fire: AI, tech, geopolitics, UK, Microsoft",
+    "filename": "main-2026-11-02_waiting-on-the-count.mp3",
+    "duration_seconds": 1353,
+    "file_size_bytes": 9266516
   }
 ]
