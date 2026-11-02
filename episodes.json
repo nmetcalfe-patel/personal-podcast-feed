@@ -288,5 +288,15 @@
     "filename": "main-2026-11-02_waiting-on-the-count.mp3",
     "duration_seconds": 1353,
     "file_size_bytes": 9266516
+  },
+  {
+    "guid": "digest-2026-11-02_the-loan-outlives-the-chip",
+    "show": "digest",
+    "title": "The Loan Outlives the Chip",
+    "pub_date": "2026-11-02T07:15:00+01:00",
+    "description": "Running order: Anthropic's books and the investor mood swing; why a railway panic from 1846 matters for AI debt; the sales handoff playbook, Waffle House and Star Wars, and what they share; also landed in the inbox.",
+    "filename": "digest-2026-11-02_the-loan-outlives-the-chip.mp3",
+    "duration_seconds": 500,
+    "file_size_bytes": 3308684
   }
 ]
