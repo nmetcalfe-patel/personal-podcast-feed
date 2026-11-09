@@ -6,7 +6,7 @@
     <atom:link href="https://nmetcalfe-patel.github.io/personal-podcast-feed/feed.xml" rel="self" type="application/rss+xml" />
     <description>A self-tuning personal news podcast, hosted by Priya (tech &amp; AI), Jim (business &amp; economy) and Nell (politics &amp; the world) — plus a shorter personal digest and on-demand deep dives.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 09 Nov 2026 06:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:33:12 +0000</lastBuildDate>
     <itunes:author>Priya, Jim &amp; Nell</itunes:author>
     <itunes:category text="News" />
     <itunes:explicit>false</itunes:explicit>
@@ -17,6 +17,15 @@
       <title>Personal Podcast</title>
       <link>https://nmetcalfe-patel.github.io/personal-podcast-feed</link>
     </image>
+    <item>
+      <title>[Digest] Counting the Wrong Thing</title>
+      <description>Running order: tokens and why counting them misleads; a bug-hunting model that found far more than anyone could fix, and four Uber rides booked by agents; Anthropic's filing and the data centre votes; Jack Daniel's and YouTube as lessons in knowing your business; a pre-mortem prompt for next year's plan; also landed in the inbox.</description>
+      <pubDate>Mon, 09 Nov 2026 07:15:00 +0100</pubDate>
+      <guid isPermaLink="false">digest-2026-11-09_counting-the-wrong-thing</guid>
+      <enclosure url="https://nmetcalfe-patel.github.io/personal-podcast-feed/episodes/digest-2026-11-09_counting-the-wrong-thing.mp3" length="3321140" type="audio/mpeg" />
+      <itunes:duration>500</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>[Main] The Rate and the Vote</title>
       <description>Running order: - The Bank of England raises rates to four per cent - America's midterms hand Congress to the Democrats - Anthropic's listing, still without a price, and a Google guarantee - Iran, Hormuz and oil after the vote - Quick-fire: AI, tech, politics, Microsoft</description>

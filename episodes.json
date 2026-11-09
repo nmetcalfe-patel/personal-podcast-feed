@@ -308,5 +308,15 @@
     "filename": "main-2026-11-09_the-rate-and-the-vote.mp3",
     "duration_seconds": 741,
     "file_size_bytes": 5058524
+  },
+  {
+    "guid": "digest-2026-11-09_counting-the-wrong-thing",
+    "show": "digest",
+    "title": "Counting the Wrong Thing",
+    "pub_date": "2026-11-09T07:15:00+01:00",
+    "description": "Running order: tokens and why counting them misleads; a bug-hunting model that found far more than anyone could fix, and four Uber rides booked by agents; Anthropic's filing and the data centre votes; Jack Daniel's and YouTube as lessons in knowing your business; a pre-mortem prompt for next year's plan; also landed in the inbox.",
+    "filename": "digest-2026-11-09_counting-the-wrong-thing.mp3",
+    "duration_seconds": 500,
+    "file_size_bytes": 3321140
   }
 ]
