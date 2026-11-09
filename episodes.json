@@ -298,5 +298,15 @@
     "filename": "digest-2026-11-02_the-loan-outlives-the-chip.mp3",
     "duration_seconds": 500,
     "file_size_bytes": 3308684
+  },
+  {
+    "guid": "main-2026-11-09_the-rate-and-the-vote",
+    "show": "main",
+    "title": "The Rate and the Vote",
+    "pub_date": "2026-11-09T06:30:00+01:00",
+    "description": "Running order: - The Bank of England raises rates to four per cent - America's midterms hand Congress to the Democrats - Anthropic's listing, still without a price, and a Google guarantee - Iran, Hormuz and oil after the vote - Quick-fire: AI, tech, politics, Microsoft",
+    "filename": "main-2026-11-09_the-rate-and-the-vote.mp3",
+    "duration_seconds": 741,
+    "file_size_bytes": 5058524
   }
 ]
